@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TestList>
+	<Test input = "15+5" expected = "15-5"/>
+	<Test input = "4-2" expected = "4+2"/>
+	<Test input = "12+ 5" expected = "12-5"/>
+	<Test input = "15 +5" expected = "15-5"/>
+</TestList>
